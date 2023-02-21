@@ -2,7 +2,7 @@
  Purpose of this project is to understand &amp; clear basics concepts of Web Development. </br> Used Web-Dev tools:- HTML5, CSS and JavaScript.
  <p> Here are some of screenshots of created Netflix Website.</p>
  <p>
-  Here is the link of Netflix website:
+  You can check Netflix website here:
   <a href="http://127.0.0.1:5500/index.html">Netflix India</a>
  </p>
  <img width="945" alt="ScreenShot 1" src="https://user-images.githubusercontent.com/125666627/220376185-495b11ff-c3e7-4acc-86c8-e20b9a895020.png">
